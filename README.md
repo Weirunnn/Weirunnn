@@ -1,56 +1,30 @@
-# I'm Weiran Zeng
+# JC EXPRESS
 
-Data-driven software developer specializing in backend systems, automation, analytics, and frontend integration.
+AI, Data & Software Solutions for Modern Business
 
-I build practical software solutions that improve business efficiency through data processing, system design, workflow automation, and user-friendly interfaces.
+We build practical software systems, data workflows, automation tools, and analytics solutions for business operations.
 
----
+## Core Capabilities
+- Backend systems and API development
+- Data engineering and automation
+- Data analysis and statistical modeling
+- AI workflow integration
+- Full-stack internal tools and dashboards
 
-## Core Skills
+## Technology Stack
+- Python, Java, Node.js
+- React, JavaScript, HTML, CSS
+- R, Pandas, NumPy
+- SQL, MySQL, PostgreSQL
 
-### Backend & API Development
-- Python (FastAPI), Java, Node.js
-- RESTful API development
-- Business logic implementation
-- Modular system design
-
-### Data Processing & Automation
-- Data cleaning, transformation, and preprocessing
-- Automation scripts and workflow optimization
-- Batch data processing (CSV, structured data)
-- Pandas, NumPy
-
-### Data Analysis & Modeling
-- Statistical analysis (R)
-- Data visualization
-- Predictive modeling (basic)
-- Monte Carlo simulation
-
-### Database & Storage
-- SQL (MySQL, PostgreSQL)
-- Database design and data management
-
-### Frontend & UI Integration
-- React
-- JavaScript (ES6+)
-- HTML / CSS
-- Responsive UI development
-- Frontend-backend API integration
-- Dashboard and internal tool interfaces
-
----
-
-## What I Build
+## Solution Areas
 - Business automation tools
 - Data processing pipelines
-- Backend systems and APIs
-- Data-driven applications
-- Dashboards and internal tools
-- Simple web interfaces connected to backend services
+- Internal dashboards
+- Reporting and analytics
+- Workflow optimization systems
+- AI-assisted business tools
 
----
-
-## About Me
-I combine data science, backend engineering, and frontend integration to build practical, real-world solutions.
-
-My focus is on transforming manual workflows into efficient systems through automation, data processing, scalable backend development, and intuitive user interfaces.
+## Contact
+- Website: your-domain
+- Business inquiries: your-email
