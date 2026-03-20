@@ -1,4 +1,4 @@
-# JC EXPRESS
+# J & C EXPRESS
 
 AI, Data & Software Solutions for Modern Business
 
